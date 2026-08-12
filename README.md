@@ -4,7 +4,7 @@ Graph-theoretic analysis of the character co-appearance network of the film *Ava
 
 - **Course:** Social Network Analysis · BSc Artificial Intelligence & Management
 - **Institution:** Luiss Guido Carli University, Rome
-- **Period:** March – May 2026
+- **Period:** February – April 2026
 - **Group:** C: Carla Di Renzo, Bianca Marino, Tommaso Moriondo, Eleonora Raimondo, Alessandro Torre
 
 **Data:** J. Kaminski et al., *Moviegalaxies — Social Networks in Movies*,
